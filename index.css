@@ -106,7 +106,7 @@ body {
     z-index: 9;
     background-image: url(/image/img1.jpg);
     background-repeat: no-repeat;
-    /* background-position: center center; */
+    background-position: center center;
 }
 
 /* background-image: url(/image/img1.jpg) ; */
